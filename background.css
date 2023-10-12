@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.project-category-box {
+    border: 2px solid white;
+    padding: 20px;
+    margin: 10px;
+    background-color: black;
+    text-align: center;
+  }
+  
+  .project-category-box h2 {
+    color: white;
+  }
+  
+  .project-category-box p {
+    color: white;
+  }
+  
